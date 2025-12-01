@@ -8,6 +8,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Online-Exam-System" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Smart-Device-Controller" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vechicle-Management-System" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/File-Converter-System/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Restaurant-Billing-System" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ecommerce-Discount-Engine" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
