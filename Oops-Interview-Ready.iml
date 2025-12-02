@@ -11,6 +11,8 @@
       <sourceFolder url="file://$MODULE_DIR$/File-Converter-System/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Restaurant-Billing-System" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ecommerce-Discount-Engine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/University-Marks-System" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/University-Result-System" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

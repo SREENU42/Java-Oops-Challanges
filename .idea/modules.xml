@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ecommerce-Discount-Engine/Ecommerce-Discount-Engine.iml" filepath="$PROJECT_DIR$/Ecommerce-Discount-Engine/Ecommerce-Discount-Engine.iml" />
       <module fileurl="file://$PROJECT_DIR$/Oops-Interview-Ready.iml" filepath="$PROJECT_DIR$/Oops-Interview-Ready.iml" />
+      <module fileurl="file://$PROJECT_DIR$/University-Result-Generator/University-Result-Generator.iml" filepath="$PROJECT_DIR$/University-Result-Generator/University-Result-Generator.iml" />
     </modules>
   </component>
 </project>
